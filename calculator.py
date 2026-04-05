@@ -6,7 +6,7 @@ def calculator(val1,val2,sign):
     else:
         return val1/val2
 
-addition = calculator(2,6,"+")
+addition = calculator(2,7,"+")
 multi = calculator(2,6,"*")
 
 print(addition)
