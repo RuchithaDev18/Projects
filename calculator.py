@@ -3,8 +3,6 @@ def calculator(val1,val2,sign):
         return val1 + val2
     elif sign == "-":
         return val1-val2
-    elif sign == "*":
-        return val1*val2
     else:
         return val1/val2
 
